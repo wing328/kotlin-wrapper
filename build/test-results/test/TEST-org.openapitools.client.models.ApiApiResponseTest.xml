@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.openapitools.client.models.ApiApiResponseTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-04-15T08:11:44" hostname="MSI" time="0.005">
+  <properties/>
+  <testcase name="should test code" classname="org.openapitools.client.models.ApiApiResponseTest" time="0.004"/>
+  <testcase name="should test type" classname="org.openapitools.client.models.ApiApiResponseTest" time="0.002"/>
+  <testcase name="should test message" classname="org.openapitools.client.models.ApiApiResponseTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.openapitools.client.models.ApiOrderTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-04-15T08:11:44" hostname="MSI" time="0.009">
+  <properties/>
+  <testcase name="should test id" classname="org.openapitools.client.models.ApiOrderTest" time="0.007"/>
+  <testcase name="should test petId" classname="org.openapitools.client.models.ApiOrderTest" time="0.007"/>
+  <testcase name="should test quantity" classname="org.openapitools.client.models.ApiOrderTest" time="0.005"/>
+  <testcase name="should test shipDate" classname="org.openapitools.client.models.ApiOrderTest" time="0.004"/>
+  <testcase name="should test status" classname="org.openapitools.client.models.ApiOrderTest" time="0.004"/>
+  <testcase name="should test complete" classname="org.openapitools.client.models.ApiOrderTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

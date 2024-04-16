@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.openapitools.client.models.ApiUserTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-04-15T08:11:44" hostname="MSI" time="0.011">
+  <properties/>
+  <testcase name="should test id" classname="org.openapitools.client.models.ApiUserTest" time="0.01"/>
+  <testcase name="should test username" classname="org.openapitools.client.models.ApiUserTest" time="0.009"/>
+  <testcase name="should test firstName" classname="org.openapitools.client.models.ApiUserTest" time="0.007"/>
+  <testcase name="should test lastName" classname="org.openapitools.client.models.ApiUserTest" time="0.006"/>
+  <testcase name="should test email" classname="org.openapitools.client.models.ApiUserTest" time="0.004"/>
+  <testcase name="should test password" classname="org.openapitools.client.models.ApiUserTest" time="0.003"/>
+  <testcase name="should test phone" classname="org.openapitools.client.models.ApiUserTest" time="0.003"/>
+  <testcase name="should test userStatus" classname="org.openapitools.client.models.ApiUserTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
